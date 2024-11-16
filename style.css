@@ -1,0 +1,36 @@
+body{
+    background: #000000;
+    color: #000;
+    text-decoration: none;
+}
+.container{
+    margin: auto;
+    padding: 1rem;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+}
+.color{
+    color: rgb(26, 83, 64);
+}
+.details{
+    border-bottom: 3px solid gray;
+    padding-bottom: 1rem;
+}
+h1{
+    text-align: center;
+}
+li{
+    font-size: large;
+    font-weight: 800;
+    list-style: circle;
+}
+li p{
+    padding-left: 1rem;
+    font-weight: 400;
+}
+footer{
+    margin-top: 3rem;
+    text-align: center;
+    font-size: 13.3px;
+    letter-spacing: 0.3px;
+}
