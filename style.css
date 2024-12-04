@@ -30,6 +30,7 @@ li{
     font-size: large;
     font-weight: 800;
     list-style: circle;
+    padding: 3px;
 }
 li p{
     padding-left: 1rem;
