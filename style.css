@@ -26,6 +26,9 @@ h1{
     font-size: large;
     font-weight: 700;
 }
+ul{
+    padding: 1rem;
+}
 li{
     font-size: large;
     font-weight: 800;
