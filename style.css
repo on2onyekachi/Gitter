@@ -29,6 +29,7 @@ h1{
 }
 ul{
     padding: 1rem;
+    list-style: square;
 }
 li{
     font-size: large;
