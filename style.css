@@ -36,6 +36,7 @@ li{
     font-weight: 800;
     list-style: circle;
     padding: 3px;
+    margin-bottom: 1rem;
 }
 li p{
     padding-left: 1rem;
